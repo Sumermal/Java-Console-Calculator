@@ -30,7 +30,7 @@ Perfect for learning Java basics, loops, methods, exception handling, and consol
 1. Clone the Repository:
 
         First, download the project from GitHub:
-        git clone https://github.com/Sumermal/Java-Consule-Calculator.git
+        git clone https://github.com/Sumermal/Java-Console-Calculator.git
 
         This will create a folder your-repo-name containing the project files.
 
